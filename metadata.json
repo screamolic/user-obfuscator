@@ -1,0 +1,5 @@
+{
+  "name": "Indo-Address Obfuscator",
+  "description": "A specialized tool for Indonesian name and address obfuscation, creating variations that look identical to humans but unique to database algorithms using invisible characters, homoglyphs, and contextual abbreviations.",
+  "requestFramePermissions": []
+}
